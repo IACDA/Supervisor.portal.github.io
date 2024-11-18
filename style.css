@@ -56,7 +56,7 @@ th,td{
 	padding: 8px;
 }
 .side-menu{
-	position: flex;
+	position: fixed;
 	background: darkblue;
 	width: 25vw;
 	min-height: 100vh;
